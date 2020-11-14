@@ -9,3 +9,5 @@
 4)Communicate between child and parent objects(Protocols)
 
 5)Add simple UIView transition
+
+6) Use MVC
